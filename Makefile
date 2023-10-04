@@ -40,8 +40,5 @@ ifeq ($(findstring --network sepolia,$(ARGS)),--network sepolia)
 endif
 
 deploy:
-	@forge script script/DeployBox.s.sol:DeployBox $(NETWORK_ARGS)
-
-upgrade:
-	@forge script script/UpgradeBox.s.sol:UpgradeBox $(NETWORK_ARGS)
+	@forge script script/GovToken.s.sol:GovToken $(NETWORK_ARGS)
 

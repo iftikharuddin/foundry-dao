@@ -1,6 +1,8 @@
-# Foundry UUPS Upgradeable Contracts
+# Foundry DAO Governance
 
-Playing with Upgradeable contracts
+Playing with DAOs Governance Tokens
+
+*Please note: ERC20 based voting is not always recommended, and I encourage you to explore other forms of governance like reputation based or "skin-in-the-game" based.*
 
 # Getting Started
 
@@ -14,8 +16,8 @@ Playing with Upgradeable contracts
 ## Quickstart
 
 ```
-git clone https://github.com/iftikharuddin/foundry-upgrades
-cd iftikharuddin/foundry-upgrades
+git clone https://github.com/iftikharuddin/foundry-dao
+cd iftikharuddin/foundry-dao
 forge build
 ```
 

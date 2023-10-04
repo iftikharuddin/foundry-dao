@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59e9b388-7a6d-421a-99e8-824d9e5bb0bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/openzeppelin-contracts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Box.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GovToken.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyGovernor.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TimeLock.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MyGovernorTest.t.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/foundry.toml" beforeDir="false" afterPath="$PROJECT_DIR$/foundry.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/Counter.s.sol" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Counter.sol" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Counter.t.sol" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696441331916</updated>
-      <workItem from="1696441333591" duration="3314000" />
+      <workItem from="1696441333591" duration="3822000" />
     </task>
     <servers />
   </component>
